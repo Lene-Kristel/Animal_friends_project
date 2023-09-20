@@ -26,7 +26,7 @@ body{
 }
 
 .container_login{
-    background-image: url("/Assets/dog3.big.jpg");
+    background-image: url("https://github.com/Lene-Kristel/Projeto_Amigo_dos_Animais/blob/main/Assets/dog3.big.jpg?raw=true");
     background-repeat: no-repeat;
     background-size: cover;
 
